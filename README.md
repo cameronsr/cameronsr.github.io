@@ -1,3 +1,7 @@
+
+## Welcome to a work in progress.
+Bookmark me to keep an eye on my projects as I move forward.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cameronsr/cameronsr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
