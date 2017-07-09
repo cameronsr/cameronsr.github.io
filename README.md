@@ -8,7 +8,7 @@
       <h>Of course, you can also contact me by <a href="mailto:cameron.sean.r@gmail.com">email</a>.</h>
       <h>Thanks for stopping by, and have a great day.</h>
 	</div>
-></section>
+</section>
 
 ## Welcome to GitHub Pages
 
