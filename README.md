@@ -1,6 +1,14 @@
+## Welcome to a work in progress. Occasional changes will occur in between other projects.
 
-## Welcome to a work in progress.
-Bookmark me to keep an eye on my projects as I move forward.
+<section id="about">
+	<div class="container">
+      <h>I'm <strong>Sean Cameron</strong>, a Technologist and Network Engineer. My interests include information systems, biotech, and helping people. In some of my spare moments I also study Python, Ruby, and other languages.</h>
+      <h>For more you can check out my professional profile or contact me at <a href="https://www.linkedin.com/in/cameronseanr/">LinkedIn</a>.</h>
+      <h>You can also follow me at <a href="https://github.com/cameronsr">GitHub</a> as projects progress.</h>
+      <h>Of course, you can also contact me by <a href="mailto:cameron.sean.r@gmail.com">email</a>.</h>
+      <h>Thanks for stopping by, and have a great day.</h>
+	</div>
+></section>
 
 ## Welcome to GitHub Pages
 
