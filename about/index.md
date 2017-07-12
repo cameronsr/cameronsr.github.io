@@ -17,8 +17,8 @@ This site is a work in progress, and will receive occasional updates in between 
 
 ### Background Art
 
-The current background art is a piece used in a custom desktop implementation. If you're interested in the art, you can find the original at **[Imgur] (https://imgur.com/y8PRWgs)**.
-If you want to know more about the custom desktop that uses this art, you can find the article over at **[Lifehacker] (https://lifehacker.com/the-long-arm-of-the-galaxy-desktop-1733871000)**.
+The current background art is a piece used in a custom desktop implementation. If you're interested in the art, you can find the original at **[Imgur](https://imgur.com/y8PRWgs)**.
+If you want to know more about the custom desktop that uses this art, you can find the article over at **[Lifehacker](https://lifehacker.com/the-long-arm-of-the-galaxy-desktop-1733871000)**.
 Note that I could not find the submitter to attribute this background to. If you are the original submitter on Imgur or know who is, please contact me so I can give proper credit on the site.
 
 ### Moon Jekyll Theme
