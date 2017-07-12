@@ -1,49 +1,28 @@
-## Welcome to a work in progress. Occasional changes will occur in between other projects.
+# Moon Jekyll Theme 
+  
+## This repository is set up as an orphan fork of **[Moon](https://taylantatli.github.io/Moon)** , a minimal, one column jekyll theme.
+In addition to hosting a personal site with this repo, I am also using it as a sandbox to experiment with different ideas.
+If you want to try this theme without any of my additions, go to the original source and fork from there. More information on the theme is below.
 
-<section id="about">
-	<div class="container">
-      <h>I'm <strong>Sean Cameron</strong>, a Technologist and Network Engineer. My interests include information systems, biotech, and helping people. In some of my spare moments I also study Python, Ruby, and other languages.</h>
-      <h>For more you can check out my professional profile or contact me at <a href="https://www.linkedin.com/in/cameronseanr/">LinkedIn</a>.</h>
-      <h>You can also follow me at <a href="https://github.com/cameronsr">GitHub</a> as projects progress.</h>
-      <h>Of course, you can also contact me by <a href="mailto:cameron.sean.r@gmail.com">email</a>.</h>
-      <h>Thanks for stopping by, and have a great day.</h>
-	</div>
-</section>
+## Features
+* Minimal, you can focus on your content
+* Responsive
+* Disqus integration
+* Syntax highlighting
+* Optional post image
+* Social icons
+* Page for sharing projects
+* Optional background image
+* Simple navigation menu
+* MathJax support
 
-## Welcome to GitHub Pages
+## Preview
 
-You can use the [editor on GitHub](https://github.com/cameronsr/cameronsr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
 
-### Markdown
+## Getting Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cameronsr/cameronsr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
