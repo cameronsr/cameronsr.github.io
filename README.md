@@ -1,6 +1,6 @@
 # Moon Jekyll Theme 
   
-## This repository is set up as an orphan fork of **[Moon](https://taylantatli.github.io/Moon)** , a minimal, one column jekyll theme.
+## This repository is set up as an orphan fork of **[Moon](https://taylantatli.github.io/Moon)**, a minimal, one column jekyll theme.
 In addition to hosting a personal site with this repo, I am also using it as a sandbox to experiment with different ideas.
 If you want to try this theme without any of my additions, go to the original source and fork from there. More information on the theme is below.
 
