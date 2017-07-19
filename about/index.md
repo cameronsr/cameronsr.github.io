@@ -9,7 +9,7 @@ comments: false
 ## About me
 
 I'm <b>Sean Cameron</b>, a Technologist specializing in Network Transport.
-My professional interests include Information Systems & Biotechnology. In some of my spare moments I also study Python, Ruby, and other programming languages.
+My professional interests include Information Systems, Biotechnology, and Data Science. In some of my spare moments I also study Python, Ruby, and other programming languages.
 You can contact me by email or LinkedIn, and see my GitHub profile via buttons at the main page. You can also access these from the About drop down to your upper left.
 This site is a work in progress, and will receive occasional updates in between other projects. Thanks for stopping by, and have a great day.
 
