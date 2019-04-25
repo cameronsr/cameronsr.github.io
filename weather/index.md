@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: weather-page
 title: Weather
 comments: false
 ---
