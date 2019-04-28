@@ -134,9 +134,12 @@ img {
 iframe {
     display: block;
 	max-width: 100%;
+    vertical-align: middle;
     margin-left: auto;
     margin-right: auto;
-    @include rounded(4px);
+    padding: 10px;
+    border: 4px $black;
+    border-radius: 2px;
 }
 figure {
   margin: 0;
