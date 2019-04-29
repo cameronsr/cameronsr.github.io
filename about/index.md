@@ -13,11 +13,20 @@ My professional interests include Information Systems, Biotechnology, and Data S
 You can contact me by email or LinkedIn, and see my GitHub profile via buttons at the main page. You can also access these from the About drop down to your upper left.
 This site is a work in progress, and will receive occasional updates in between other projects. Thanks for stopping by, and have a great day.
 
+### New features
+- Via the About drop down, you can now see my Artstation page. At a future date I'll be adding an action button on the Home page to do the same.
+- There is now also a Weather page. Currently it hosts an `iframe` widget feeding local data from NASA/JPL's Insight Lander on Mars. My next project for that page will be to host a local weather & time widget that I'll code myself.
+
+### Future features
+Keep an eye on this site for features coming at a future time.
+- A Resources page(s) with links to courses, sites or GitHub repos of interest depending on subject. Initially, I will be posting links to data science related resources.
+- An Events page showing links to events I'm hosting on Meetup, or other local events you may be interested in.
+
 ## About the site
 
 ### Background Art
 
-The current background art is a piece used in a custom desktop implementation. If you're interested in the art, you can find the original at **[Imgur](https://imgur.com/y8PRWgs)**.
+The current background art is a piece called, 'Long Arm of the Galaxy'. It is used in a custom desktop theme. If you're interested in the art, you can find the original at **[Imgur](https://imgur.com/y8PRWgs)**.
 If you want to know more about the custom desktop that uses this art, you can find the article over at **[Lifehacker](https://lifehacker.com/the-long-arm-of-the-galaxy-desktop-1733871000)**.
 Note that I could not find the submitter to attribute this background to. If you are the original submitter on Imgur or know who is, please contact me so I can give proper credit on the site.
 
