@@ -32,7 +32,7 @@ Note that I could not find the submitter to attribute this background to. If you
 
 ### Moon Jekyll Theme
 
-This site is published from a GitHub repository, that is set up as an orphan fork of **[Moon](https://taylantatli.github.io/Moon)** , a minimal, one column Jekyll theme.
+This site is published from a GitHub repository that is set up as an orphan fork of **[Moon](https://taylantatli.github.io/Moon)**, a minimal, one column Jekyll theme.
 In addition to hosting a personal site with this repo, I am also using it as a sandbox to experiment with different ideas.
 If you want to try this theme without any of my additions, go to the original source and fork from there. More information on the theme is below.
 
