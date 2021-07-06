@@ -15,7 +15,7 @@ This site is a work in progress, and will receive occasional updates in between 
 
 ### New features
 - Via the About drop down, you can now see my Artstation page. At a future date I'll be adding an action button on the Home page to do the same.
-- There is now also a Weather page. Currently it hosts an `iframe` widget feeding local data from NASA/JPL's Insight Lander on Mars. My next project for that page will be to host a local weather & time widget that I'll code myself.
+- There is now also a Weather page. Currently it hosts an `iframe` widget feeding local data from NASA/JPL's Curiosity Rover on Mars. My next project for that page will be to host a local weather & time widget that I'll code myself.
 
 ### Future features
 Keep an eye on this site for features coming at a future time.
